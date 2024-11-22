@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Cat 1](/sample_page)
+[Cat 1](/sample_page.md)
 <img src="images/01.jpg?raw=true"/>
 
 ---
